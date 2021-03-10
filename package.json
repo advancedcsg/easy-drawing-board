@@ -1,14 +1,15 @@
 {
   "name": "easy-drawing-board",
-  "version": "1.4.0",
+  "version": "2.0.0",
   "description": "a easy to use canvas-drawing lib 🎨",
-  "main": "./dist/easy-drawing-board.js",
+  "main": "./dist/easy-drawing-board.umd.js",
+  "module": "./dist/easy-drawing-board.esm.js",
   "scripts": {
     "build": "rollup -c"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kaier33/easy-drawing-board.git"
+    "url": "git+https://github.com/advancedcsg/easy-drawing-board.git"
   },
   "keywords": [
     "canvas",
@@ -17,12 +18,12 @@
     "canvas-drawing",
     "canvas-drawing-board"
   ],
-  "author": "Kaier33",
+  "author": "advancedcsg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Kaier33/easy-drawing-board/issues"
+    "url": "https://github.com/advancedcsg/easy-drawing-board/issues"
   },
-  "homepage": "https://github.com/Kaier33/easy-drawing-board#readme",
+  "homepage": "https://github.com/advancedcsg/easy-drawing-board#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
