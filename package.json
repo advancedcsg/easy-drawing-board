@@ -1,6 +1,6 @@
 {
   "name": "easy-drawing-board",
-  "version": "3.0.0",
+  "version": "2.1.0",
   "description": "a easy to use canvas-drawing lib 🎨",
   "main": "./dist/easy-drawing-board.umd.js",
   "module": "./dist/easy-drawing-board.esm.js",
