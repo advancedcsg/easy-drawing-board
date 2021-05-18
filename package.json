@@ -1,11 +1,12 @@
 {
   "name": "easy-drawing-board",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "a easy to use canvas-drawing lib 🎨",
   "main": "./dist/easy-drawing-board.umd.js",
   "module": "./dist/easy-drawing-board.esm.js",
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
   },
   "repository": {
     "type": "git",
